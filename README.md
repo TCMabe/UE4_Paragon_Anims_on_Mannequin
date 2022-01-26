@@ -1,4 +1,14 @@
-# UE4_Paragon_Anims_on_Mannequin
+# Paragon Anims on Mannequin
+
+This fork is based off [TCMabe's repository](https://github.com/TCMabe/UE4_Paragon_Anims_on_Mannequin) mainly to convert the repo from an Unreal Project to a Plugin.
+
+Thanks to TCMabe for creating this and retargeting all those animations in the first place!
+
+You can find original readme content just below.
+
+---
+
+## UE4_Paragon_Anims_on_Mannequin
 
 Welcome to the UE4_Paragon_Anims_on_Mannequin project. 
 These animations are only for use within an Epic Unreal Engine project and their download and use from this repository acknowledges your agreement to be bound by the terms and conditions implied by the Epic Unreal Engine license agreement.
