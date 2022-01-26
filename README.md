@@ -4,9 +4,11 @@ This fork is based off [TCMabe's repository](https://github.com/TCMabe/UE4_Parag
 
 ## Install
 
-From the root of your project, run:
+You can download a packaged release [here](https://github.com/mklabs/UE4_Paragon_Anims_on_Mannequin/releases/latest/download/Paragon_Anims_Mannequin_1.0.0.zip).
 
-    git clone https://github.com/mklabs/UE4_Paragon_Anims_on_Mannequin.git Plugins/Paragon_Anims_Mannequin
+Alternately, from the root of your project, run:
+
+    git clone https://github.com/mklabs/UE4_Paragon_Anims_on_Mannequin.git Plugins/Paragon_Anims_Mannequin --single-branch
 
 Start project and check / enable the plugin: `Plugins > Project > Animations > Paragon_Anims_Mannequin`
 
