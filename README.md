@@ -1,28 +1,18 @@
-# Paragon Anims on Mannequin
+# UE4_Paragon_Anims_on_Mannequin (Plugin)
 
-This fork is based off [TCMabe's repository](https://github.com/TCMabe/UE4_Paragon_Anims_on_Mannequin) mainly to convert the repo from an Unreal Project to a Plugin.
+This branch converts the main repo branch from an Unreal Project to a Plugin, that can be installed per project need.
 
 ## Install
 
-You can download a packaged release [here](https://github.com/mklabs/UE4_Paragon_Anims_on_Mannequin/releases/latest/download/Paragon_Anims_Mannequin_1.0.0.zip).
-
 Alternately, from the root of your project, run:
 
-    git clone https://github.com/mklabs/UE4_Paragon_Anims_on_Mannequin.git Plugins/Paragon_Anims_Mannequin --single-branch
+    git clone https://github.com/TCMabe/UE4_Paragon_Anims_on_Mannequin.git --branch mklabs_plugin --single-branch Plugins/Paragon_Anims_Mannequin
 
 Start project and check / enable the plugin: `Plugins > Project > Animations > Paragon_Anims_Mannequin`
 
 If you don't see the plugin content, make sure "Show Plugin Content" is ticked in the Content Browser view options.
 
-## Credits
-
-Thanks to TCMabe for creating this and retargeting all those animations in the first place!
-
-You can find original readme content just below.
-
 ---
-
-## UE4_Paragon_Anims_on_Mannequin
 
 Welcome to the UE4_Paragon_Anims_on_Mannequin project. 
 These animations are only for use within an Epic Unreal Engine project and their download and use from this repository acknowledges your agreement to be bound by the terms and conditions implied by the Epic Unreal Engine license agreement.
