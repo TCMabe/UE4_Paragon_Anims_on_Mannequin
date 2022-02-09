@@ -1,4 +1,18 @@
-# UE4_Paragon_Anims_on_Mannequin
+# UE4_Paragon_Anims_on_Mannequin (Plugin)
+
+This branch converts the main repo branch from an Unreal Project to a Plugin, that can be installed per project need.
+
+## Install
+
+Alternately, from the root of your project, run:
+
+    git clone https://github.com/TCMabe/UE4_Paragon_Anims_on_Mannequin.git --branch mklabs_plugin --single-branch Plugins/Paragon_Anims_Mannequin
+
+Start project and check / enable the plugin: `Plugins > Project > Animations > Paragon_Anims_Mannequin`
+
+If you don't see the plugin content, make sure "Show Plugin Content" is ticked in the Content Browser view options.
+
+---
 
 Welcome to the UE4_Paragon_Anims_on_Mannequin project. 
 These animations are only for use within an Epic Unreal Engine project and their download and use from this repository acknowledges your agreement to be bound by the terms and conditions implied by the Epic Unreal Engine license agreement.

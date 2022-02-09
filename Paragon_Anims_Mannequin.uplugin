@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Paragon Anims on Mannequin",
+	"Description": "Retarget of the Paragon animations onto the UE4 Mannequin. This project is only licensed for use with Epic Unreal Engine and all uses must comply with their license agreement.",
+	"Category": "Animation",
+	"CreatedBy": "TCMabe",
+	"CreatedByURL": "https://github.com/TCMabe/UE4_Paragon_Anims_on_Mannequin",
+	"DocsURL": "https://github.com/TCMabe/UE4_Paragon_Anims_on_Mannequin/tree/mklabs_plugin",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
